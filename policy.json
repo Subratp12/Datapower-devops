@@ -3,5 +3,6 @@
   "insured": "KAILASH CHANDRA PADHI",
   "vehicle": "HONDA ACTIVA 5G",
   "reg_no": "AP39EB4678",
-  "status": "Active"
+  "status": "Active",
+  "expiry_date": "2028-02-25"
 }
